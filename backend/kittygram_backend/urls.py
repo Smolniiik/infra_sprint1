@@ -9,8 +9,8 @@ from django.conf.urls.static import static
 from cats.views import AchievementViewSet, CatViewSet
 
 
-router.trailing_slash = '/?'
 router = routers.DefaultRouter()
+router.trailing_slash = '/?'
 router.register(r'cats', CatViewSet)
 router.register(r'achievements', AchievementViewSet)
 
