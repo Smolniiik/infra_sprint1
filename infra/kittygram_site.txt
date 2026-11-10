@@ -1,0 +1,5 @@
+IP: 84.201.159.142;
+name_taski: https://snowywren173.ddns.net;
+name_kittygram: https://kittigramm-praktikum.publicvm.com;
+login: ubuntu;
+password: 123;
